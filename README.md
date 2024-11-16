@@ -10,11 +10,11 @@ This desktop assistant is equipped with a variety of commands to help automate t
 # General Inquiries
 
 Date and Time: The assistant can provide real-time updates on the current date and time upon request.
+
 Reminders and Prompts: Use voice commands to set reminders or prompts for ongoing activities.
 Web Browsing and Navigation
-Opening Websites: Instantly open commonly used websites such as:
-Google: Perform quick searches and access resources.
-YouTube: Open and play videos with minimal delay.
+
+Opening Websites: Instantly open commonly used websites such as Google and YouTube
 Web Automation: The script can handle basic interactions with web browsers, enhancing multitasking capabilities.
 
 # Weather Information
