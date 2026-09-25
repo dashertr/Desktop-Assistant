@@ -1,6 +1,6 @@
 # Desktop Assistant
 
-This project is a Python-based desktop assistant designed to run in the background and perform a variety of tasks using voice commands. It integrates with macOS features, leveraging system commands and Python libraries to enhance productivity.
+This simple project is a Python-based desktop assistant designed to run in the background and perform a variety of tasks using voice commands. It integrates with macOS features, leveraging system commands and Python libraries to enhance productivity.
 
 ## Commands and Capabilities
 
